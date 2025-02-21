@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
+- script: echo Hola, esta es la demostración de la experiencia 1, DEVOPS-EFT-GRUPO13!
   displayName: 'Run a one-line script'
 
 - script: |
